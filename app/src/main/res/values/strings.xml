@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uplifting Facts</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="show_another_fun_fact">Show another fun fact</string>
+</resources>
